@@ -1,0 +1,16 @@
+{
+  "/gsp/[slug]": "pages/gsp/[slug].js",
+  "/gsp": "pages/gsp.js",
+  "/gssp": "pages/gssp.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/ja/404": "pages/ja/404.html",
+  "/en/404": "pages/en/404.html",
+  "/fr/404": "pages/fr/404.html",
+  "/nl/404": "pages/nl/404.html",
+  "/ja": "pages/ja.html",
+  "/en": "pages/en.html",
+  "/fr": "pages/fr.html",
+  "/nl": "pages/nl.html"
+}
